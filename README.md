@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="./.img/spiffe-icon.png" /></div>
+
 # Awesome SPIFFE
 
 ## SPIFFE Issuers
