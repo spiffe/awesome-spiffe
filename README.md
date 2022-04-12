@@ -15,7 +15,7 @@ This section captures projects that are capable of issuing SPIFFE identities to 
 * Consul
 * Istio
 * Kong
-* Dapper
+* Dapr
 * Athenz
 
 ## SPIFFE-aware Software
