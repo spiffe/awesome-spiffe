@@ -17,6 +17,7 @@ This section captures projects that are capable of issuing SPIFFE identities to 
 * Kong
 * Dapr
 * Athenz
+* [Teleport](https://github.com/gravitational/teleport)
 
 ## SPIFFE-aware Software
 This section captures projects that are capable of using SVIDs to identify themselves and their peers (i.e. they support SPIFFE authentication). If a piece of software is listed in the `SPIFFE Issuers` section, then it is implied that it is SPIFFE-aware.
@@ -24,11 +25,21 @@ This section captures projects that are capable of using SVIDs to identify thems
 * Envoy
 * SPIRE
 * gRPC
-* Ghostunnel
+* [Ghostunnel](https://github.com/ghostunnel/ghostunnel) - Light-weight server or client TLS proxy with support for basic access control.
 * Knox
 * Keywhiz
 
 ## SPIFFE Libraries
+
+Maintained by the SPIFFE project:
+
+* [go-spiffe](https://github.com/spiffe/go-spiffe) - SPIFFE SDK for Go
+* [java-spiffe](https://github.com/spiffe/java-spiffe) - SPIFFE SDK for Java
+
+Maintained by the community:
+
+* [rust-spiffe](https://github.com/maxlambrecht/rust-spiffe) - SPIFFE SDK for Rust
+* [py-spiffe](https://github.com/HewlettPackard/py-spiffe) - SPIFFE SDK for Python
 
 ## SPIRE Integrations
 This section captures the list of software/platforms that SPIRE integrates with, either via built-in support or via discrete supporting components.
