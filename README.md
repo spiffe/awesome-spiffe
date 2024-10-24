@@ -28,6 +28,7 @@ This section captures projects that are capable of using SVIDs to identify thems
 * [Ghostunnel](https://github.com/ghostunnel/ghostunnel) - Light-weight server or client TLS proxy with support for basic access control.
 * Knox
 * Keywhiz
+* [Traefik](https://doc.traefik.io/traefik/https/spiffe/) - Modern open source reverse proxy and ingress controller that makes deploying services and APIs easy.
 
 ## SPIFFE Libraries
 
